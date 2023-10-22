@@ -12,3 +12,9 @@ h1 {
 #title { 
     color: orange
 }
+.summary-toggle {
+    color:olive;
+    cursor: pointer;
+
+    &:hover {color:hotpink}
+}
